@@ -75,6 +75,7 @@ footer{
   font-family: "Open Sans";
   padding-top: 40px;
   color: #fff;
+  bottom: 0;
 }
 
 .footer-content{
@@ -135,6 +136,7 @@ footer{
   font-size: 14px;
   word-spacing: 2px;
   text-transform: capitalize;
+  bottom: 0;
 }
 
 .footer-bottom span{
