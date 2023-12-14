@@ -122,7 +122,7 @@ footer{
   transition: color .4s ease;
 }
 
-.socials a:hover i{
+.socials a:hover{
   color: aqua;
 }
 
